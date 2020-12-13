@@ -7,6 +7,4 @@
 
 -----
 
-<p align="justify">
-  Welcome
-</p>
+Welcome
