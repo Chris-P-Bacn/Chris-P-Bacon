@@ -7,4 +7,4 @@
 
 -----
 
-### Welcome to this random GitHub profile :)
+### Welcome
