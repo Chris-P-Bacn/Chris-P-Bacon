@@ -5,9 +5,16 @@
 ![stickBugged](https://github.com/Chris-P-Bacn/Chris-P-Bacn/blob/main/stickBugged.gif)
 ![stickBugged](https://github.com/Chris-P-Bacn/Chris-P-Bacn/blob/main/stickBugged.gif)  <br />
 
-<a href="https://github.com/nlpha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nlpha&show_icons=true&count_private=true" />
-</a>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=nlpha&show_icons=true&count_private=true">
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=nlpha&show_icons=true&count_private=true">
+    </td>
+  </tr>
+</table>
 
 -----
 
