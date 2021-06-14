@@ -1,4 +1,4 @@
-# Welcome... ![E](https://raw.githubusercontent.com/Night08/Night08/main/hmmm.png?token=AQM33GREUQLM7QIHJHEA2W3AYQD4G)
+# Welcome... ![E](https://raw.githubusercontent.com/Night08/Night08/main/hmm_26px.png)
 
 <table>
   <tr>
