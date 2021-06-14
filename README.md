@@ -1,4 +1,4 @@
-<font size="100"> Welcome... </font> ![E](https://raw.githubusercontent.com/Night08/Night08/main/hmm_28px.png)
+# Welcome... ![E](https://raw.githubusercontent.com/Night08/Night08/main/hmm_28px.png)
 
 <table>
   <tr>
