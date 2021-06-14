@@ -14,4 +14,4 @@
 
 
 
-# [I see that you're still here...] ![E](https://raw.githubusercontent.com/Night08/Night08/main/hmmmm.png)
+# I see that you're still here... ![E](https://raw.githubusercontent.com/Night08/Night08/main/hmmmm.png)
