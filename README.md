@@ -1,4 +1,4 @@
-# ![Lol](https://raw.githubusercontent.com/Night08/Night08/main/cooldoge.gif) Welcome... ![](https://raw.githubusercontent.com/Night08/Night08/main/cooldoge.gif)
+# ![E](https://raw.githubusercontent.com/Night08/Night08/main/cooldoge.gif) Welcome... ![E](https://raw.githubusercontent.com/Night08/Night08/main/cooldoge.gif)
 
 <table>
   <tr>
