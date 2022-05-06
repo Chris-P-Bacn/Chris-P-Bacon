@@ -10,3 +10,5 @@
     </td>
   </tr>
 </table>
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Somewans)](https://github.com/Somewans/)
