@@ -12,3 +12,8 @@
 </table>
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=KrishayB&theme=noctis-minimus)](https://github.com/KrishayB/)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/KrishayB/count.svg"/>
+</p>
