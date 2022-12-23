@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=KrishayB&theme=noctis-minimus)](https://github.com/KrishayB/)
+<!-- [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=KrishayB&theme=noctis-minimus)](https://github.com/KrishayB/) -->
 
 <p align="center"> 
   Visitor count<br>
