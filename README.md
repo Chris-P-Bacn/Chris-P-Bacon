@@ -1,4 +1,4 @@
-# ![E](https://raw.githubusercontent.com/KrishayB/KrishayB/main/cooldoge.gif) Welcome... ![E](https://raw.githubusercontent.com/KrishayB/KrishayB/main/cooldoge.gif)
+# ![E](https://raw.githubusercontent.com/KrishayB/KrishayB/main/cooldoge.gif) Welcome! ![E](https://raw.githubusercontent.com/KrishayB/KrishayB/main/cooldoge.gif)
 
 <table>
   <tr>
